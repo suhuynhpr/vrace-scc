@@ -1,0 +1,468 @@
+{
+  "Ra Khơi": [
+    {
+      "name": "Nguyễn Ngọc Minh Thư",
+      "id": "1098062391",
+      "team": "Ra Khơi",
+      "result": 27.36
+    },
+    {
+      "name": "Phạm Bá Phúc",
+      "id": "1097300933",
+      "result": 23.11
+    },
+    {
+      "name": "Nguyễn Hữu Hiệp",
+      "id": "1086943111",
+      "result": 35.87
+    },
+    {
+      "name": "Lâm Mỹ Huyền",
+      "id": "1099335381",
+      "result": 3.25
+    },
+    {
+      "name": "Lê Đức Khiêm",
+      "id": "1099472285",
+      "result": 77
+    },
+    {
+      "name": "Nguyễn Thị Kim Ngọc",
+      "id": "1098077214",
+      "result": 7.9
+    },
+    {
+      "name": "Dương Đức Nhân",
+      "id": "1091163836",
+      "result": 12.57
+    },
+    {
+      "name": "",
+      "id": ""
+    }
+  ],
+  "Kingsman": [
+    {
+      "name": "Phạm Văn Quyền",
+      "id": "1099457196",
+      "team": "Kingsman",
+      "result": 3.5
+    },
+    {
+      "name": "Nguyễn Trọng Dư",
+      "id": "1097300708",
+      "result": 36.15
+    },
+    {
+      "name": "Chu Hoàng Hiệp",
+      "id": "1099335419",
+      "result": 10.09
+    },
+    {
+      "name": "Phan Văn Tấn",
+      "id": "1099301336",
+      "result": 11.09
+    },
+    {
+      "name": "Nguyễn Minh Tuấn 8",
+      "id": "1099352794",
+      "result": 9.52
+    },
+    {
+      "name": "Nguyễn Văn Dương",
+      "id": "1099936289",
+      "result": 6.28
+    },
+    {
+      "name": "Tiêu Trường Tam",
+      "id": "1099358265",
+      "result": 3.27
+    },
+    {
+      "name": "",
+      "id": ""
+    }
+  ],
+  "Mười khó": [
+    {
+      "name": "Trần Thị Dung",
+      "id": "1088327759",
+      "team": "Mười khó",
+      "result": 12.95
+    },
+    {
+      "name": "Nguyễn Trần Xuân Lộc",
+      "id": "1097300862",
+      "result": 13.98
+    },
+    {
+      "name": "Lê Minh Trí",
+      "id": "1087621703",
+      "result": 18.3
+    },
+    {
+      "name": "Phạm Ngọc Bình",
+      "id": "1099335799",
+      "result": 5.98
+    },
+    {
+      "name": "Nguyễn Tuấn Duy",
+      "id": "1099457962",
+      "result": 16.44
+    },
+    {
+      "name": "Sỳ Nguyên Huy Vinh",
+      "id": "1100015806",
+      "result": 0
+    },
+    {
+      "name": "Huỳnh Thị Thuỷ Ngân",
+      "id": "1099937374",
+      "result": 11.23
+    },
+    {
+      "name": "",
+      "id": ""
+    }
+  ],
+
+  "Gánh Tạ": [
+    {
+      "name": "Lương Xuân Thanh",
+      "id": "1089620122",
+      "team": "Gánh Tạ",
+      "result": 9.03
+    },
+    {
+      "name": "Mai Xuân Thắng",
+      "id": "1087812470",
+      "result": 23.02
+    },
+    {
+      "name": "Phạm Đức Minh",
+      "id": "1032892735",
+      "result": 14.81
+    },
+    {
+      "name": "Lê Quốc Dương",
+      "id": "1099336055",
+      "result": 0
+    },
+    {
+      "name": "Đậu Thị Tuyết Anh",
+      "id": "1099335374",
+      "result": 5
+    },
+    {
+      "name": "Lê Thị Thảo Nhi",
+      "id": "1006312713",
+      "result": 3.62
+    },
+    {
+      "name": "Nguyễn Thị Phương",
+      "id": "1099355768",
+      "result": 4.57
+    },
+    {
+      "name": "Huỳnh Trường Trọng Đạt",
+      "id": "1087518911",
+      "result": 3.81
+    }
+  ],
+  "Nhất Chắc": [
+    {
+      "name": "Lê Duy Bình",
+      "id": "1067426837",
+      "team": "Nhất Chắc",
+      "result": 6.02
+    },
+    {
+      "name": "Huỳnh Quốc Huy",
+      "id": "1097300971",
+      "result": 22.75
+    },
+    {
+      "name": "Vũ Trọng Nhân",
+      "id": "1099458194",
+      "result": 8.52
+    },
+    {
+      "name": "Nguyễn Đức Trung",
+      "id": "1099958863",
+      "result": 3.5
+    },
+    {
+      "name": "Đoàn Ngọc Luân",
+      "id": "1100029292",
+      "result": 8.14
+    },
+    {
+      "name": "Trần Văn Khánh",
+      "id": "1087520767",
+      "result": 5.95
+    },
+    {
+      "name": "Phạm Hồng Giang",
+      "id": "1099458324",
+      "result": 4.34
+    },
+    {
+      "name": "",
+      "id": ""
+    }
+  ],
+  "Thiên Ý": [
+    {
+      "name": "Đậu Thị Thùy Vân",
+      "id": "1087178431",
+      "team": "Thiên Ý",
+      "result": 0
+    },
+    {
+      "name": "Phan Khánh Toàn",
+      "id": "1099356216",
+      "result": 6.16
+    },
+    {
+      "name": "Triệu Minh Tuấn",
+      "id": "1087691306",
+      "result": 6.7
+    },
+    {
+      "name": "Vũ Thị Thủy",
+      "id": "1099476688",
+      "result": 5.7
+    },
+    {
+      "name": "Đặng Duy Sơn",
+      "id": "1097959547",
+      "result": 6.67
+    },
+    {
+      "name": "Tường Thị Sang",
+      "id": "1099335351",
+      "result": 3.27
+    },
+    {
+      "name": "Nguyễn Hoàng Sơn",
+      "id": "1098122231",
+      "result": 23.13
+    },
+    {
+      "name": "Nguyễn Thị Thùy Dương",
+      "id": "1087417997",
+      "result": 4.41
+    }
+  ],
+  "Đỉnh": [
+    {
+      "name": "Phạm Thao Thức",
+      "id": "1063573120",
+      "team": "Đỉnh",
+      "result": 19.55
+    },
+    {
+      "name": "Đào Duy Quang",
+      "id": "1087686831",
+      "result": 7.77
+    },
+    {
+      "name": "Vương Thị Hồng Nhung",
+      "id": "1088940372",
+      "result": 3.68
+    },
+    {
+      "name": "Hồ Văn Phúc",
+      "id": "1099343727",
+      "result": 4.03
+    },
+    {
+      "name": "Bùi Đức Chiến",
+      "id": "1099946478",
+      "result": 7.21
+    },
+    {
+      "name": "Vũ Đình Hiếu",
+      "id": "1099335059",
+      "result": 0
+    },
+    {
+      "name": "Nguyễn Thu Trang",
+      "id": "1099314608",
+      "result": 3.1
+    },
+    {
+      "name": "Lê Mạnh Tài",
+      "id": "1099357096",
+      "result": 1.86
+    }
+  ],
+  "Cháu Bác Hồ": [
+    {
+      "name": "Lê Quang Cường",
+      "id": "1095318151",
+      "team": "Cháu Bác Hồ",
+      "result": 3.02
+    },
+    {
+      "name": "Trương Tấn Sang",
+      "id": "1066673645",
+      "result": 9.81
+    },
+    {
+      "name": "Nguyễn Thu Hương",
+      "id": "1099477162",
+      "result": 1.35
+    },
+    {
+      "name": "Nguyễn Công Mạnh",
+      "id": "1099356511",
+      "result": 5.77
+    },
+    {
+      "name": "Võ Thị Huỳnh Như",
+      "id": "1099465593",
+      "result": 11.01
+    },
+    {
+      "name": "Nguyễn Minh Tú",
+      "id": "1099358097",
+      "result": 0
+    },
+    {
+      "name": "Nguyễn Trường Sơn",
+      "id": "1099940865",
+      "result": 6.2
+    },
+    {
+      "name": "",
+      "id": ""
+    }
+  ],
+  "Top 7": [
+    {
+      "name": "Huỳnh Văn Tân",
+      "id": "1099335854",
+      "team": "Top 7",
+      "result": 3.8
+    },
+    {
+      "name": "Hoàng Vũ Minh",
+      "id": "1091782298",
+      "result": 15.26
+    },
+    {
+      "name": "Lê Mạnh Cường",
+      "id": "1054331412",
+      "result": 0
+    },
+    {
+      "name": "Trần Tuấn Kiệt",
+      "id": "1099358119",
+      "result": 0.93
+    },
+    {
+      "name": "Nguyễn Bích Nguyệt",
+      "id": "1099335076",
+      "result": 2.78
+    },
+    {
+      "name": "Nguyễn Minh Tuấn 113",
+      "id": "1099937351",
+      "result": 1.26
+    },
+    {
+      "name": "Lê Xuân Bách",
+      "id": "1100183327",
+      "result": 0
+    },
+    {
+      "name": "",
+      "id": ""
+    }
+  ],
+  "Mạnh": [
+    {
+      "name": "Vũ Thanh Hải",
+      "id": "1084473392",
+      "team": "Mạnh",
+      "result": 3.88
+    },
+    {
+      "name": "Nguyễn Thành Nguyên",
+      "id": "1099456417",
+      "result": 0.84
+    },
+    {
+      "name": "Lê Văn Mạnh",
+      "id": "1099460386",
+      "result": 3.12
+    },
+    {
+      "name": "Hoàng Anh Tuấn",
+      "id": "1099944301",
+      "result": 1.77
+    },
+    {
+      "name": "Phan Đức Huy",
+      "id": "1099894511",
+      "result": 4.33
+    },
+    {
+      "name": "Nguyễn Tiến Phong",
+      "id": "1099458003",
+      "result": 7.13
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "",
+      "id": ""
+    }
+  ],
+  "Hà": [
+    {
+      "name": "Phan Hữu Phước",
+      "id": "1078577942",
+      "team": "Hà",
+      "result": 1.13
+    },
+    {
+      "name": "Nguyễn Đỗ Trọng",
+      "id": "1098062284",
+      "result": 6.57
+    },
+    {
+      "name": "Đoàn Văn Quân",
+      "id": "1089539114",
+      "result": 0
+    },
+    {
+      "name": "Trần Anh Tú",
+      "id": "1099456921",
+      "result": 3.75
+    },
+    {
+      "name": "Hà Đức Minh",
+      "id": "1099478676",
+      "result": 0
+    },
+    {
+      "name": "Nguyễn Đình Văn",
+      "id": "1099958579",
+      "result": 1.53
+    },
+    {
+      "name": "Lê Thu Hà",
+      "id": "1099335699",
+      "result": 0
+    },
+    {
+      "name": "Nguyễn Thanh Bình",
+      "id": "1099458625",
+      "result": 0
+    }
+  ]
+}

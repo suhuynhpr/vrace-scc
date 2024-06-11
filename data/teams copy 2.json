@@ -1,0 +1,32 @@
+{
+  "Cháu Bác Hồ": [
+    {
+      "name": "Lê Quang Cường",
+      "id": "10953188151",
+      "team": "Cháu Bác Hồ",
+      "result": 0
+    },
+    { "name": "Trương Tấn Sang", "id": "1066673645", "result": 7.95 },
+    { "name": "Nguyễn Thu Hương", "id": "1099477162", "result": 0 },
+    { "name": "Nguyễn Công Mạnh", "id": "1099356511", "result": 0 },
+    { "name": "Võ Thị Huỳnh Như", "id": "1099465593", "result": 3.65 },
+    { "name": "Nguyễn Minh Tú", "id": "1099358097", "result": 0 },
+    { "name": "Nguyễn Trường Sơn", "id": "1099940865", "result": 0 },
+    { "name": "", "id": "" }
+  ],
+  "Muời khó": [
+    {
+      "name": "Trần Thị Dung",
+      "id": "1088327759",
+      "team": "Muời khó",
+      "result": 8.24
+    },
+    { "name": "Nguyễn Trần Xuân Lộc", "id": "1097300862", "result": 4.13 },
+    { "name": "Lê Minh Trí", "id": "1087621703", "result": 3.32 },
+    { "name": "Phạm Ngọc Bình", "id": "1099335799", "result": 0 },
+    { "name": "Nguyễn Tuấn Duy", "id": "1099457962", "result": 0 },
+    { "name": "Sỹ Nguyên Huy Vinh", "id": "93571", "result": 0 },
+    { "name": "Huỳnh Thị Thuỷ Ngân", "id": "1099937374", "result": 7.79 },
+    { "name": "", "id": "" }
+  ]
+}

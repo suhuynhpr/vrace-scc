@@ -1,0 +1,19 @@
+{
+  "Ra Khơi": [
+    {
+      "name": "Nguyễn Ngọc Minh Thư",
+      "id": "1098062391",
+      "team": "Ra Khơi",
+      "result": 19.7
+    },
+    {
+      "name": "Lâm Mỹ Huyền",
+      "id": "1099335381",
+      "result": 3.25
+    },
+    {
+      "name": "",
+      "id": ""
+    }
+  ]
+}

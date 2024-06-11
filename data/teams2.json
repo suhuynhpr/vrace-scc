@@ -1,0 +1,470 @@
+{
+  "Nhất Chắc": [
+    {
+      "name": "Lê Duy Bình",
+      "id": "98765",
+      "team": "Nhất Chắc"
+    },
+    {
+      "name": "Huỳnh Quốc Huy",
+      "id": "24680"
+    },
+    {
+      "name": "Vũ Trọng Nhân",
+      "id": "13579"
+    },
+    {
+      "name": "Nguyễn Quờ Trung",
+      "id": "86420"
+    },
+    {
+      "name": "Đoàn Ngọc Luân",
+      "id": "17395"
+    },
+    {
+      "name": "Trần Văn Khánh",
+      "id": "63285"
+    },
+    {
+      "name": "Phạm Hồng Giang",
+      "id": "50819"
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Cháu Bác Hồ": [
+    {
+      "name": "Lê Quang Cường",
+      "id": "37146",
+      "team": "Cháu Bác Hồ"
+    },
+    {
+      "name": "Trương Tấn Sang",
+      "id": "92468"
+    },
+    {
+      "name": "Nguyễn Thu Hương",
+      "id": "75310"
+    },
+    {
+      "name": "Nguyễn Công Mạnh",
+      "id": "18642"
+    },
+    {
+      "name": "Võ Thị Huỳnh Như",
+      "id": "63027"
+    },
+    {
+      "name": "Nguyễn Minh Tú",
+      "id": "49183"
+    },
+    {
+      "name": "Nguyễn Trường Sơn",
+      "id": "1099940865"
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Top 7": [
+    {
+      "name": "Huỳnh Văn Tân",
+      "id": "70836",
+      "team": "Top 7"
+    },
+    {
+      "name": "Hoàng Vũ Minh",
+      "id": "54321"
+    },
+    {
+      "name": "Lê Mạnh Cường",
+      "id": "98270"
+    },
+    {
+      "name": "Trần Tuấn Kiệt",
+      "id": "16495"
+    },
+    {
+      "name": "Nguyễn Bích Nguyệt",
+      "id": "63294"
+    },
+    {
+      "name": "Nguyễn Minh Tuấn 113",
+      "id": "38547"
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Muời khó": [
+    {
+      "name": "Trần Thị Dung",
+      "id": "72619",
+      "team": "Muời khó"
+    },
+    {
+      "name": "Nguyễn Trần Xuân Lộc",
+      "id": "49283"
+    },
+    {
+      "name": "Lê Minh Trí",
+      "id": "15908"
+    },
+    {
+      "name": "Phạm Ngọc Bình",
+      "id": "67841"
+    },
+    {
+      "name": "Nguyễn Tuấn Duy",
+      "id": "20375"
+    },
+    {
+      "name": "Sỹ Nguyên Huy Vinh",
+      "id": "93571"
+    },
+    {
+      "name": "Huỳnh Thị Thuỷ Ngân",
+      "id": "2324"
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Thiên Ý": [
+    {
+      "name": "Đậu Thị Thùy Vân",
+      "id": "48265",
+      "team": "Thiên Ý"
+    },
+    {
+      "name": "Phan Khánh Toàn",
+      "id": "71936"
+    },
+    {
+      "name": "Triệu Minh Tuấn",
+      "id": "29507"
+    },
+    {
+      "name": "Vũ Thị Thủy",
+      "id": "85413"
+    },
+    {
+      "name": "Đặng Duy Sơn",
+      "id": "62971"
+    },
+    {
+      "name": "Tường Thị Sang",
+      "id": "39685"
+    },
+    {
+      "name": "Nguyễn Hoàng Sơn",
+      "id": "16273"
+    },
+    {
+      "name": "Nguyễn Thị Thùy Dương",
+      "id": "34059"
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Kingsman": [
+    {
+      "name": "Phạm Văn Quyền",
+      "id": "57829",
+      "team": "Kingsman"
+    },
+    {
+      "name": "Nguyễn Trọng Dư",
+      "id": "93146"
+    },
+    {
+      "name": "Chu Hoàng Hiệp",
+      "id": "70614"
+    },
+    {
+      "name": "Phan Văn Tấn",
+      "id": "21938"
+    },
+    {
+      "name": "Nguyễn Minh Huấn 8",
+      "id": "86475"
+    },
+    {
+      "name": "Nguyễn Văn Dương",
+      "id": "53792"
+    },
+    {
+      "name": "Tiêu Trường Tam",
+      "id": "69210"
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Ra Khơi": [
+    {
+      "name": "Nguyễn Ngọc Minh Thư",
+      "id": "74189",
+      "team": "Ra Khơi"
+    },
+    {
+      "name": "Phạm Bá Phúc",
+      "id": "31597"
+    },
+    {
+      "name": "Nguyễn Hữu Hiệp",
+      "id": "68204"
+    },
+    {
+      "name": "Lâm Mỹ Huyền",
+      "id": "95736"
+    },
+    {
+      "name": "Lê Đức Khiêm",
+      "id": "10482"
+    },
+    {
+      "name": "Nguyễn Thị Kim Ngọc",
+      "id": "57830"
+    },
+    {
+      "name": "Nguyễn Mạnh Quân",
+      "id": "23971"
+    },
+    {
+      "name": "Dương Đức Nhân",
+      "id": "46810"
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Đội 8": [
+    {
+      "name": "Đặng Tứ Quý",
+      "id": "79364",
+      "team": "Đội 8"
+    },
+    {
+      "name": "Lý Kiên Phi",
+      "id": "79364"
+    },
+    {
+      "name": "Cao Thị Quế",
+      "id": "52718"
+    },
+    {
+      "name": "Phạm Vũ Anh Trung",
+      "id": "16940"
+    },
+    {
+      "name": "Lê Vương Khánh",
+      "id": "83527"
+    },
+    {
+      "name": "Nguyễn Kim Thiện",
+      "id": "29385"
+    },
+    {
+      "name": "Phạm Như Lâm",
+      "id": "74106"
+    },
+    {
+      "name": "Huỳnh Quang Triệu",
+      "id": "61473"
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Hà": [
+    {
+      "name": "Phan Hữu Phước",
+      "id": "37820",
+      "team": "Hà"
+    },
+    {
+      "name": "Nguyễn Đỗ Trọng",
+      "id": "90245"
+    },
+    {
+      "name": "Đoàn Văn Quân",
+      "id": "54781"
+    },
+    {
+      "name": "Trần Anh Tú",
+      "id": "21567"
+    },
+    {
+      "name": "Hà Đức Minh",
+      "id": "68932"
+    },
+    {
+      "name": "Nguyễn Đình Văn",
+      "id": "35478"
+    },
+    {
+      "name": "Lê Thu Hà",
+      "id": "92610"
+    },
+    {
+      "name": "Nguyễn Thanh Bình",
+      "id": "47035"
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Đỉnh": [
+    {
+      "name": "Phạm Thảo Thúc",
+      "id": "18463",
+      "team": "Đỉnh"
+    },
+    {
+      "name": "Đào Duy Quang",
+      "id": "75209"
+    },
+    {
+      "name": "Vương Thị Hồng Nhung",
+      "id": "31986"
+    },
+    {
+      "name": "Hồ Văn Phúc",
+      "id": "84720"
+    },
+    {
+      "name": "Bùi Đức Chiến",
+      "id": "57394"
+    },
+    {
+      "name": "Vũ Đình Hiếu",
+      "id": "23567"
+    },
+    {
+      "name": "Nguyễn Thu Trang",
+      "id": "69841"
+    },
+    {
+      "name": "Lê Mạnh Tài",
+      "id": "15372"
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Gánh Tạ": [
+    {
+      "name": "Lương Xuân Thanh",
+      "id": "60925",
+      "team": "Gánh Tạ"
+    },
+    {
+      "name": "Mai Xuân Thắng",
+      "id": "27591"
+    },
+    {
+      "name": "Phạm Đức Minh",
+      "id": "84163"
+    },
+    {
+      "name": "Lê Quốc Dương",
+      "id": "41730"
+    },
+    {
+      "name": "Đậu Thị Tuyết Anh",
+      "id": "98607"
+    },
+    {
+      "name": "Lê Thị Thảo Nhi",
+      "id": "65482"
+    },
+    {
+      "name": "Nguyễn Thị Phương",
+      "id": "22149"
+    },
+    {
+      "name": "Huỳnh Trường Trọng Đạt",
+      "id": "39816"
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ],
+  "Mạnh": [
+    {
+      "name": "Vũ Thanh Hải",
+      "id": "76543",
+      "team": "Mạnh"
+    },
+    {
+      "name": "Nguyễn Thành Nguyên",
+      "id": "12987"
+    },
+    {
+      "name": "Lê Văn Mạnh",
+      "id": "64320"
+    },
+    {
+      "name": "Hoàng Anh Tuấn",
+      "id": "91085"
+    },
+    {
+      "name": "Phan Đức Huy",
+      "id": "58476"
+    },
+    {
+      "name": "Nguyễn Tiến Phong",
+      "id": "23741"
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "AVAERAGE",
+      "id": ""
+    }
+  ]
+}
