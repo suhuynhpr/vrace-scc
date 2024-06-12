@@ -1,28 +1,12 @@
-import {
-  Form,
-  Select,
-  InputNumber,
-  DatePicker,
-  Switch,
-  Slider,
-  Button,
-  Rate,
-  Typography,
-  Space,
-  Divider,
-  Flex,
-  Segmented,
-  Table,
-  Tag,
-} from "antd";
-import Carousel from "react-multi-carousel";
-import "react-multi-carousel/lib/styles.css";
-import type { FlexProps, SegmentedProps, TableProps } from "antd";
-import React, { useEffect, useState, useMemo } from "react";
-import type { InferGetServerSidePropsType, GetServerSideProps } from "next";
-import teams from "../data/api_response.json";
 import Particles, { initParticlesEngine } from "@tsparticles/react";
 import { loadSlim } from "@tsparticles/slim";
+import type { TableProps } from "antd";
+import { Flex, Select, Table, Tag, Typography } from "antd";
+import React, { useEffect, useMemo, useState } from "react";
+import teams from "../data/api_response.json";
+import teams_03_06 from "../data/api_response_03_06.json";
+import teams_20_05 from "../data/api_response_20_05.json";
+import teams_27_05 from "../data/api_response_27_05.json";
 const { Text, Link } = Typography;
 
 const responsive = {
@@ -744,6 +728,41 @@ export default function Home() {
         particlesLoaded={particlesLoaded}
         options={options}
       />
+      <Select
+        onChange={(e) => {
+          switch (e) {
+            case "teams_20_05":
+              setData(teams_20_05);
+              break;
+            case "teams_27_05":
+              setData(teams_27_05);
+              break;
+            case "teams_03_06":
+              setData(teams_03_06);
+              break;
+
+            default:
+              setData(teams);
+              break;
+          }
+        }}
+        defaultValue="teams"
+        options={[
+          { label: "20/5 - 26/5", value: "teams_20_05" },
+          {
+            label: "27/5 - 2/6",
+            value: "teams_27_05",
+          },
+          {
+            label: "3/6 - 9/6",
+            value: "teams_03_06",
+          },
+          {
+            label: "10/6 - 16/6",
+            value: "teams",
+          },
+        ]}
+      />
       <Flex gap="middle" align="start" vertical wrap style={{ margin: "20px" }}>
         <Flex
           style={boxStyle}
@@ -823,7 +842,7 @@ export default function Home() {
                         color={average > 3 ? "lime" : "orange"}
                         style={{ fontWeight: "bold", fontSize: "14px" }}
                       >
-                        {average.toFixed(2)}
+                        {average.toFixed(0)}
                       </Tag>
                     </div>
                   );
