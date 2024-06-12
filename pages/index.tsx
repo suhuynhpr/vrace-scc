@@ -729,6 +729,7 @@ export default function Home() {
         options={options}
       />
       <Select
+        style={{ marginTop: 5, marginLeft: 20, width: 200 }}
         onChange={(e) => {
           switch (e) {
             case "teams_20_05":
