@@ -461,5 +461,47 @@
       "name": "",
       "id": ""
     }
+  ],"Đỉnh": [
+    {
+      "name": "Phạm Thao Thức",
+      "id": "1063573120",
+      "team": "Đỉnh",
+      "result": 9.8
+    },
+    {
+      "name": "Đào Duy Quang",
+      "id": "1087686831",
+      "result": 3.29
+    },
+    {
+      "name": "Vương Thị Hồng Nhung",
+      "id": "1088940372",
+      "result": 0
+    },
+    {
+      "name": "Hồ Văn Phúc",
+      "id": "1099343727",
+      "result": 0
+    },
+    {
+      "name": "Bùi Đức Chiến",
+      "id": "1099946478",
+      "result": 1.3
+    },
+    {
+      "name": "Vũ Đình Hiếu",
+      "id": "1099335059",
+      "result": 2.13
+    },
+    {
+      "name": "Nguyễn Thu Trang",
+      "id": "1099314608",
+      "result": 0
+    },
+    {
+      "name": "Lê Mạnh Tài",
+      "id": "1099357096",
+      "result": 0
+    }
   ]
 }
