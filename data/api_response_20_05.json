@@ -55,7 +55,7 @@
     },
     {
       "name": "Lê Minh Trí",
-      "id": "1087621703",
+      "id": "1099330202",
       "result": 17.88
     },
     {
@@ -460,48 +460,6 @@
     {
       "name": "",
       "id": ""
-    }
-  ], "Đỉnh": [
-    {
-      "name": "Phạm Thao Thức",
-      "id": "1063573120",
-      "team": "Đỉnh",
-      "result": 33.54
-    },
-    {
-      "name": "Đào Duy Quang",
-      "id": "1087686831",
-      "result": 5.9
-    },
-    {
-      "name": "Vương Thị Hồng Nhung",
-      "id": "1088940372",
-      "result": 14.07
-    },
-    {
-      "name": "Hồ Văn Phúc",
-      "id": "1099343727",
-      "result": 6.21
-    },
-    {
-      "name": "Bùi Đức Chiến",
-      "id": "1099946478",
-      "result": 6.29
-    },
-    {
-      "name": "Vũ Đình Hiếu",
-      "id": "1099335059",
-      "result": 3.18
-    },
-    {
-      "name": "Nguyễn Thu Trang",
-      "id": "1099314608",
-      "result": 3.27
-    },
-    {
-      "name": "Lê Mạnh Tài",
-      "id": "1099357096",
-      "result": 0
     }
   ]
 }

@@ -2,7 +2,7 @@
   "Cháu Bác Hồ": [
     {
       "name": "Lê Quang Cường",
-      "id": "10953188151",
+      "id": "1095318151",
       "team": "Cháu Bác Hồ"
     },
     {
@@ -46,7 +46,7 @@
     },
     {
       "name": "Lê Minh Trí",
-      "id": "1087621703"
+      "id": "1099330202"
     },
     {
       "name": "Phạm Ngọc Bình",
@@ -346,6 +346,75 @@
     {
       "name": "Huỳnh Trường Trọng Đạt",
       "id": "1087518911"
+    }
+  ],
+  "Đội 8": [
+    {
+      "name": "Đặng Tứ Quý",
+      "id": "1087519059",
+      "team": "Đội 8"
+    },
+    {
+      "name": "Lý Kiên Phi",
+      "id": "1097300674"
+    },
+    {
+      "name": "Cao Thị Quế",
+      "id": "1098958183"
+    },
+    {
+      "name": "Phạm Vũ Anh Trung",
+      "id": "1099856669"
+    },
+    {
+      "name": "Nguyễn Kim Thiện",
+      "id": "1087649147"
+    },
+    {
+      "name": "Huỳnh Quang Triệu",
+      "id": "1100461188"
+    },
+    {
+      "name": "",
+      "id": ""
+    },
+    {
+      "name": "",
+      "id": ""
+    }
+  ], "Đỉnh": [
+    {
+      "name": "Phạm Thao Thức",
+      "id": "1063573120",
+      "team": "Đỉnh"
+    },
+    {
+      "name": "Đào Duy Quang",
+      "id": "1087686831"
+    },
+    {
+      "name": "Vương Thị Hồng Nhung",
+      "id": "1088940372"
+    },
+    {
+      "name": "Hồ Văn Phúc",
+      "id": "1099343727"
+    },
+    {
+      "name": "Bùi Đức Chiến",
+      "id": "1099946478"
+    },
+    {
+      "name": "Vũ Đình Hiếu",
+      "id": "1099335059"
+    },
+    {
+      "name": "Nguyễn Thu Trang",
+      "id": "1099314608"
+    },
+    {
+      "name": "Lê Mạnh Tài",
+      "id": "1099357096"
     }
   ]
 }
