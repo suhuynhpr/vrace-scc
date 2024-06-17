@@ -7,6 +7,7 @@ import teams from "../data/api_response.json";
 import teams_03_06 from "../data/api_response_03_06.json";
 import teams_20_05 from "../data/api_response_20_05.json";
 import teams_27_05 from "../data/api_response_27_05.json";
+import teams_10_06 from "../data/api_response_10_06.json";
 const { Text, Link } = Typography;
 
 const responsive = {
@@ -742,6 +743,10 @@ export default function Home() {
               setData(teams_03_06);
               break;
 
+            case "teams_10_06":
+              setData(teams_10_06);
+              break;
+
             default:
               setData(teams);
               break;
@@ -760,6 +765,10 @@ export default function Home() {
           },
           {
             label: "10/6 - 16/6",
+            value: "teams_10_06",
+          },
+          {
+            label: "17/6 - 23/6",
             value: "teams",
           },
         ]}
