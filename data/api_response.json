@@ -24,7 +24,7 @@
     {
       "name": "Võ Thị Huỳnh Như",
       "id": "1099465593",
-      "result": 0
+      "result": 2.19
     },
     {
       "name": "Nguyễn Minh Tú",
@@ -46,12 +46,12 @@
       "name": "Trần Thị Dung",
       "id": "1088327759",
       "team": "Mười khó",
-      "result": 0
+      "result": 2.17
     },
     {
       "name": "Nguyễn Trần Xuân Lộc",
       "id": "1097300862",
-      "result": 0
+      "result": 3.03
     },
     {
       "name": "Lê Minh Trí",
@@ -76,7 +76,7 @@
     {
       "name": "Huỳnh Thị Thuỷ Ngân",
       "id": "1099937374",
-      "result": 0
+      "result": 4.55
     },
     {
       "name": "",
@@ -88,27 +88,27 @@
       "name": "Nguyễn Ngọc Minh Thư",
       "id": "1098062391",
       "team": "Ra Khơi",
-      "result": 0
+      "result": 2.09
     },
     {
       "name": "Phạm Bá Phúc",
       "id": "1097300933",
-      "result": 0
+      "result": 2.9
     },
     {
       "name": "Nguyễn Hữu Hiệp",
       "id": "1086943111",
-      "result": 0
+      "result": 7.05
     },
     {
       "name": "Lâm Mỹ Huyền",
       "id": "1099335381",
-      "result": 0
+      "result": 1.65
     },
     {
       "name": "Lê Đức Khiêm",
       "id": "1099472285",
-      "result": 0
+      "result": 10.3
     },
     {
       "name": "Nguyễn Thị Kim Ngọc",
@@ -140,7 +140,7 @@
     {
       "name": "Chu Hoàng Hiệp",
       "id": "1099335419",
-      "result": 0
+      "result": 0.47
     },
     {
       "name": "Phan Văn Tấn",
@@ -150,7 +150,7 @@
     {
       "name": "Nguyễn Minh Tuấn 8",
       "id": "1099352794",
-      "result": 0
+      "result": 3.7
     },
     {
       "name": "Nguyễn Văn Dương",
@@ -160,7 +160,7 @@
     {
       "name": "Tiêu Trường Tam",
       "id": "1099358265",
-      "result": 0
+      "result": 3.38
     },
     {
       "name": "",
@@ -177,12 +177,12 @@
     {
       "name": "Huỳnh Quốc Huy",
       "id": "1097300971",
-      "result": 0
+      "result": 5.65
     },
     {
       "name": "Vũ Trọng Nhân",
       "id": "1099458194",
-      "result": 0
+      "result": 2.21
     },
     {
       "name": "Nguyễn Đức Trung",
@@ -219,7 +219,7 @@
     {
       "name": "Hoàng Vũ Minh",
       "id": "1091782298",
-      "result": 0
+      "result": 3.43
     },
     {
       "name": "Lê Mạnh Cường",
@@ -239,7 +239,8 @@
     {
       "name": "",
       "id": ""
-    },{
+    },
+    {
       "name": "",
       "id": ""
     },
@@ -357,12 +358,12 @@
     {
       "name": "Đặng Duy Sơn",
       "id": "1097959547",
-      "result": 0
+      "result": 4.1
     },
     {
       "name": "Tường Thị Sang",
       "id": "1099335351",
-      "result": 0
+      "result": 4.6899999999999995
     },
     {
       "name": "Nguyễn Hoàng Sơn",
@@ -372,7 +373,7 @@
     {
       "name": "Nguyễn Thị Thùy Dương",
       "id": "1087417997",
-      "result": 0
+      "result": 1.88
     }
   ],
   "Gánh Tạ": [
@@ -380,17 +381,17 @@
       "name": "Lương Xuân Thanh",
       "id": "1089620122",
       "team": "Gánh Tạ",
-      "result": 0
+      "result": 4.29
     },
     {
       "name": "Mai Xuân Thắng",
       "id": "1087812470",
-      "result": 0
+      "result": 7.69
     },
     {
       "name": "Phạm Đức Minh",
       "id": "1032892735",
-      "result": 0
+      "result": 5.31
     },
     {
       "name": "Lê Quốc Dương",
@@ -410,7 +411,7 @@
     {
       "name": "Nguyễn Thị Phương",
       "id": "1099355768",
-      "result": 0
+      "result": 1.8
     },
     {
       "name": "Huỳnh Trường Trọng Đạt",
@@ -474,7 +475,7 @@
     {
       "name": "Vương Thị Hồng Nhung",
       "id": "1088940372",
-      "result": 0
+      "result": 0.52
     },
     {
       "name": "Hồ Văn Phúc",
@@ -484,7 +485,7 @@
     {
       "name": "Bùi Đức Chiến",
       "id": "1099946478",
-      "result": 0
+      "result": 0.74
     },
     {
       "name": "Vũ Đình Hiếu",
