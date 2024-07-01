@@ -783,10 +783,10 @@ export default function Home() {
             label: "24/6 - 30/6",
             value: "teams_24_06",
           },
-          // {
-          //   label: "24/6 - 30/6",
-          //   value: "teams",
-          // },
+          {
+            label: "08/7 - 14/7",
+            value: "teams",
+          },
         ]}
       />
       <Flex gap="middle" align="start" vertical wrap style={{ margin: "20px" }}>
