@@ -54,16 +54,6 @@
       "result": 13.55
     },
     {
-      "name": "Lê Minh Trí",
-      "id": "1099330202",
-      "result": 0
-    },
-    {
-      "name": "Phạm Ngọc Bình",
-      "id": "1099335799",
-      "result": 0
-    },
-    {
       "name": "Nguyễn Tuấn Duy",
       "id": "1099457962",
       "result": 0
@@ -79,6 +69,12 @@
       "result": 13.8
     },
     {
+      "name": "",
+      "id": ""
+    },{
+      "name": "",
+      "id": ""
+    },{
       "name": "",
       "id": ""
     }
