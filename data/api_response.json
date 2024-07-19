@@ -24,7 +24,7 @@
     {
       "name": "Võ Thị Huỳnh Như",
       "id": "1099465593",
-      "result": 0
+      "result": 0.78
     },
     {
       "name": "Nguyễn Minh Tú",
@@ -51,7 +51,7 @@
     {
       "name": "Nguyễn Trần Xuân Lộc",
       "id": "1097300862",
-      "result": 3.15
+      "result": 4.47
     },
     {
       "name": "Nguyễn Tuấn Duy",
@@ -137,7 +137,7 @@
     {
       "name": "Chu Hoàng Hiệp",
       "id": "1099335419",
-      "result": 0
+      "result": 0.95
     },
     {
       "name": "Phạm Văn Tấn",
@@ -174,7 +174,7 @@
     {
       "name": "Huỳnh Quốc Huy",
       "id": "1097300971",
-      "result": 0
+      "result": 3.23
     },
     {
       "name": "Vũ Trọng Nhân",
@@ -334,27 +334,33 @@
     {
       "name": "Đậu Thị Thùy Vân",
       "id": "1087178431",
-      "team": "Thiên Ý"
+      "team": "Thiên Ý",
+      "result": 0
     },
     {
       "name": "Phan Khánh Toàn",
-      "id": "1099356216"
+      "id": "1099356216",
+      "result": 0
     },
     {
       "name": "Triệu Minh Tuấn",
-      "id": "1087691306"
+      "id": "1087691306",
+      "result": 0
     },
     {
       "name": "Vũ Thị Thủy",
-      "id": "1099476688"
+      "id": "1099476688",
+      "result": 0
     },
     {
       "name": "Đặng Duy Sơn",
-      "id": "1097959547"
+      "id": "1097959547",
+      "result": 0
     },
     {
       "name": "Tường Thị Sang",
-      "id": "1099335351"
+      "id": "1099335351",
+      "result": 1.08
     },
     {
       "name": "Nguyễn Hoàng Sơn",
@@ -382,12 +388,12 @@
     {
       "name": "Phạm Đức Minh",
       "id": "1032892735",
-      "result": 5.79
+      "result": 11.2
     },
     {
       "name": "Lê Quốc Dương",
       "id": "1099336055",
-      "result": 1.61
+      "result": 3.82
     },
     {
       "name": "Đậu Thị Tuyết Anh",
@@ -456,7 +462,7 @@
       "name": "Phạm Thao Thức",
       "id": "1063573120",
       "team": "Đỉnh",
-      "result": 2.04
+      "result": 3.6900000000000004
     },
     {
       "name": "Đào Duy Quang",
